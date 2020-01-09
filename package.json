@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "name": "js-basics-3",
   "version": "1.0.0",
   "description": "- Open the project in Visual Studio Code\r - Start the Live Server\r - Open the Console tab on Chrome's DevTools",
@@ -17,3 +18,15 @@
   },
   "homepage": "https://github.com/nevtay/js-basics-3#readme"
 }
+=======
+  "name": "js-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+>>>>>>> Stashed changes
