@@ -1,0 +1,19 @@
+{
+  "name": "js-basics-3",
+  "version": "1.0.0",
+  "description": "- Open the project in Visual Studio Code\r - Start the Live Server\r - Open the Console tab on Chrome's DevTools",
+  "main": "exercise-4.js",
+  "scripts": {
+    "test": "node exercise-4.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevtay/js-basics-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nevtay/js-basics-3/issues"
+  },
+  "homepage": "https://github.com/nevtay/js-basics-3#readme"
+}
